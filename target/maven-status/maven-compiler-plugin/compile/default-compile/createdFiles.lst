@@ -1,0 +1,8 @@
+com\cloverbaytechnologies\user\repository\UserRepository.class
+com\cloverbaytechnologies\user\controller\UserController.class
+com\cloverbaytechnologies\user\pagination\PageFile.class
+com\cloverbaytechnologies\user\response\UserResponse.class
+com\cloverbaytechnologies\user\request\UserRequest.class
+com\cloverbaytechnologies\user\model\User.class
+com\cloverbaytechnologies\user\service\UserService.class
+com\cloverbaytechnologies\user\UserApplication.class
